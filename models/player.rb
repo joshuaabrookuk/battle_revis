@@ -3,5 +3,6 @@ class Player
 
   def initialize
     @hit_points = 100
+    @name
   end
 end
