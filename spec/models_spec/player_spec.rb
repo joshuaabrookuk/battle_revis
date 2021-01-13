@@ -9,5 +9,7 @@ describe Player do
   end
 
   it { should respond_to :hit_points }
-  
+
+  it { should respond_to :name }
+
 end
